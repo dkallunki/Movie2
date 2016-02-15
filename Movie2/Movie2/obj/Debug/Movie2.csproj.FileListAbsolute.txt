@@ -3,3 +3,7 @@ D:\PROJECTS C#\Movie2\Movie2\bin\Debug\Movie2.exe
 D:\PROJECTS C#\Movie2\Movie2\bin\Debug\Movie2.pdb
 D:\PROJECTS C#\Movie2\Movie2\obj\Debug\Movie2.exe
 D:\PROJECTS C#\Movie2\Movie2\obj\Debug\Movie2.pdb
+D:\github\Movie2\Movie2\Movie2\bin\Debug\Movie2.exe.config
+D:\github\Movie2\Movie2\Movie2\obj\Debug\Movie2.exe
+D:\github\Movie2\Movie2\Movie2\obj\Debug\Movie2.pdb
+D:\github\Movie2\Movie2\Movie2\obj\Debug\Movie2.csprojResolveAssemblyReference.cache
